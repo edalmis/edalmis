@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ethem Dalmis
 - 👀 I’m interested in AI
-- 🌱 I’m currently studying at 42 Nice, learning C / C++ / TypeScript / JavaScript / Docker 
+- 🌱 I’m currently studying at 42 Nice, learning C / C++ / TypeScript / JavaScript / Docker / Python / Java
 - 💞️ I’m looking to collaborate on web developer and embedded development
 - 📫 You can reach me via mail ethmdlms@gmail.com
 
